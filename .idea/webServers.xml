@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d7d0a420-3a86-42b7-aa90-58462d78ce2d" name="Denise Polverini" url="http://ftp.web1421.kinghost.net">
+        <fileTransfer host="ftp.web1421.kinghost.net" port="21" rootFolder="/www" password="dfdedf9adf9adf9adf9bdf9cdf9bdf9bdf9adf93df9cdf98" username="denisepolverini">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
